@@ -1,0 +1,190 @@
+{
+    "FactionId": 0,
+    "BuildingType": 23,
+    "Quality": 0,
+    "NameSeed": 0,
+    "RmbSubRecord": {
+        "XPos": 384,
+        "ZPos": 3712,
+        "YRotation": 1536,
+        "Exterior": {
+            "Header": {
+                "Num3dObjectRecords": 1,
+                "NumFlatObjectRecords": 0,
+                "NumSection3Records": 0,
+                "NumPeopleRecords": 0,
+                "NumDoorRecords": 0
+            },
+            "Block3dObjectRecords": [
+                {
+                    "ModelId": "444",
+                    "ModelIdNum": 444,
+                    "ObjectType": 4,
+                    "XPos": 48,
+                    "YPos": 0,
+                    "ZPos": -50,
+                    "XRotation": 0,
+                    "YRotation": 0,
+                    "ZRotation": 0
+                }
+            ],
+            "BlockFlatObjectRecords": [],
+            "BlockSection3Records": [],
+            "BlockPeopleRecords": [],
+            "BlockDoorRecords": []
+        },
+        "Interior": {
+            "Header": {
+                "Num3dObjectRecords": 6,
+                "NumFlatObjectRecords": 7,
+                "NumSection3Records": 0,
+                "NumPeopleRecords": 0,
+                "NumDoorRecords": 0
+            },
+            "Block3dObjectRecords": [
+                {
+                    "ModelId": "20020",
+                    "ModelIdNum": 20020,
+                    "ObjectType": 13,
+                    "XPos": -48,
+                    "YPos": -256,
+                    "ZPos": 48,
+                    "XRotation": 0,
+                    "YRotation": 1024,
+                    "ZRotation": 0
+                },
+                {
+                    "ModelId": "20029",
+                    "ModelIdNum": 20029,
+                    "ObjectType": 13,
+                    "XPos": 221,
+                    "YPos": -72,
+                    "ZPos": 61,
+                    "XRotation": 0,
+                    "YRotation": 1024,
+                    "ZRotation": 0
+                },
+                {
+                    "ModelId": "41030",
+                    "ModelIdNum": 41030,
+                    "ObjectType": 3,
+                    "XPos": 304,
+                    "YPos": 2,
+                    "ZPos": 96,
+                    "XRotation": 0,
+                    "YRotation": -1538,
+                    "ZRotation": 0
+                },
+                {
+                    "ModelId": "41030",
+                    "ModelIdNum": 41030,
+                    "ObjectType": 3,
+                    "XPos": 304,
+                    "YPos": 2,
+                    "ZPos": 176,
+                    "XRotation": 0,
+                    "YRotation": -1538,
+                    "ZRotation": 0
+                },
+                {
+                    "ModelId": "41030",
+                    "ModelIdNum": 41030,
+                    "ObjectType": 3,
+                    "XPos": -208,
+                    "YPos": 2,
+                    "ZPos": 152,
+                    "XRotation": 0,
+                    "YRotation": -514,
+                    "ZRotation": 0
+                },
+                {
+                    "ModelId": "41030",
+                    "ModelIdNum": 41030,
+                    "ObjectType": 3,
+                    "XPos": -208,
+                    "YPos": 2,
+                    "ZPos": 88,
+                    "XRotation": 0,
+                    "YRotation": -514,
+                    "ZRotation": 0
+                }
+            ],
+            "BlockFlatObjectRecords": [
+                {
+                    "Position": 7272,
+                    "XPos": 8,
+                    "YPos": -387,
+                    "ZPos": 160,
+                    "TextureArchive": 199,
+                    "TextureRecord": 8,
+                    "FactionID": -1,
+                    "Flags": 1
+                },
+                {
+                    "Position": 7289,
+                    "XPos": 168,
+                    "YPos": 0,
+                    "ZPos": -64,
+                    "TextureArchive": 199,
+                    "TextureRecord": 8,
+                    "FactionID": -1,
+                    "Flags": 1
+                },
+                {
+                    "Position": 7306,
+                    "XPos": 152,
+                    "YPos": -48,
+                    "ZPos": 16,
+                    "TextureArchive": 210,
+                    "TextureRecord": 17,
+                    "FactionID": 24588,
+                    "Flags": 17
+                },
+                {
+                    "Position": 7323,
+                    "XPos": 80,
+                    "YPos": -48,
+                    "ZPos": 128,
+                    "TextureArchive": 210,
+                    "TextureRecord": 17,
+                    "FactionID": 24588,
+                    "Flags": 17
+                },
+                {
+                    "Position": 7340,
+                    "XPos": -104,
+                    "YPos": -129,
+                    "ZPos": 104,
+                    "TextureArchive": 210,
+                    "TextureRecord": 20,
+                    "FactionID": 24588,
+                    "Flags": 17
+                },
+                {
+                    "Position": 7357,
+                    "XPos": 64,
+                    "YPos": -258,
+                    "ZPos": 64,
+                    "TextureArchive": 199,
+                    "TextureRecord": 8,
+                    "FactionID": 0,
+                    "Flags": 0
+                },
+                {
+                    "Position": 7374,
+                    "XPos": -64,
+                    "YPos": -258,
+                    "ZPos": -64,
+                    "TextureArchive": 199,
+                    "TextureRecord": 8,
+                    "FactionID": 0,
+                    "Flags": 0
+                }
+            ],
+            "BlockSection3Records": [],
+            "BlockPeopleRecords": [],
+            "BlockDoorRecords": []
+        }
+    },
+    "AutoMapData": null
+}

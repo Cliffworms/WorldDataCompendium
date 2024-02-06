@@ -1,0 +1,106 @@
+{
+    "Loaded": true,
+    "Name": "Vern'kern Manor",
+    "RegionName": "Tigonus",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 256209047,
+        "Latitude": 18344,
+        "Longitude": 64424,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 16496640,
+                "Y": 4700161,
+                "IsExterior": 32768,
+                "Unknown2": 244,
+                "LocationId": 24973,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Vern'kern Manor"
+            }
+        },
+        "BuildingCount": 4,
+        "Buildings": [
+            {
+                "NameSeed": 31927,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 24973,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 21808,
+                "FactionId": 0,
+                "Sector": 9,
+                "LocationId": 24973,
+                "BuildingType": "House2",
+                "Quality": 10
+            },
+            {
+                "NameSeed": 20690,
+                "FactionId": 0,
+                "Sector": 12,
+                "LocationId": 24973,
+                "BuildingType": "House2",
+                "Quality": 12
+            },
+            {
+                "NameSeed": 4798,
+                "FactionId": 0,
+                "Sector": 15,
+                "LocationId": 24973,
+                "BuildingType": "House1",
+                "Quality": 1
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Vern'kern Manor",
+            "MapId": 356503,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRGS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 229,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_SubTropical",
+        "GroundArchive": 2,
+        "NatureArchive": 501,
+        "SkyBase": 24,
+        "People": "Breton",
+        "Names": "Nord"
+    },
+    "Politic": 176,
+    "RegionIndex": 48,
+    "LocationIndex": 244
+}

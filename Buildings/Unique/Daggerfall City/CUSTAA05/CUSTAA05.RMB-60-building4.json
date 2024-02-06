@@ -1,0 +1,152 @@
+{
+    "FactionId": 0,
+    "BuildingType": 22,
+    "Quality": 20,
+    "NameSeed": 0,
+    "RmbSubRecord": {
+        "XPos": 1088,
+        "ZPos": 1856,
+        "YRotation": 1024,
+        "Exterior": {
+            "Header": {
+                "Num3dObjectRecords": 1,
+                "NumFlatObjectRecords": 0,
+                "NumSection3Records": 0,
+                "NumPeopleRecords": 0,
+                "NumDoorRecords": 0
+            },
+            "Block3dObjectRecords": [
+                {
+                    "ModelId": "523",
+                    "ModelIdNum": 523,
+                    "ObjectType": 4,
+                    "XPos": 0,
+                    "YPos": 0,
+                    "ZPos": 0,
+                    "XRotation": 0,
+                    "YRotation": 0,
+                    "ZRotation": 0
+                }
+            ],
+            "BlockFlatObjectRecords": [],
+            "BlockSection3Records": [],
+            "BlockPeopleRecords": [],
+            "BlockDoorRecords": []
+        },
+        "Interior": {
+            "Header": {
+                "Num3dObjectRecords": 9,
+                "NumFlatObjectRecords": 0,
+                "NumSection3Records": 0,
+                "NumPeopleRecords": 0,
+                "NumDoorRecords": 0
+            },
+            "Block3dObjectRecords": [
+                {
+                    "ModelId": "31730",
+                    "ModelIdNum": 31730,
+                    "ObjectType": 5,
+                    "XPos": 128,
+                    "YPos": -258,
+                    "ZPos": 256,
+                    "XRotation": 0,
+                    "YRotation": 512,
+                    "ZRotation": 0
+                },
+                {
+                    "ModelId": "31730",
+                    "ModelIdNum": 31730,
+                    "ObjectType": 5,
+                    "XPos": 256,
+                    "YPos": -258,
+                    "ZPos": 128,
+                    "XRotation": 0,
+                    "YRotation": 1024,
+                    "ZRotation": 0
+                },
+                {
+                    "ModelId": "31731",
+                    "ModelIdNum": 31731,
+                    "ObjectType": 5,
+                    "XPos": 128,
+                    "YPos": -258,
+                    "ZPos": 384,
+                    "XRotation": 0,
+                    "YRotation": 1024,
+                    "ZRotation": 0
+                },
+                {
+                    "ModelId": "31731",
+                    "ModelIdNum": 31731,
+                    "ObjectType": 5,
+                    "XPos": 384,
+                    "YPos": -258,
+                    "ZPos": 384,
+                    "XRotation": 0,
+                    "YRotation": 512,
+                    "ZRotation": 0
+                },
+                {
+                    "ModelId": "31731",
+                    "ModelIdNum": 31731,
+                    "ObjectType": 5,
+                    "XPos": 384,
+                    "YPos": -258,
+                    "ZPos": 128,
+                    "XRotation": 0,
+                    "YRotation": 0,
+                    "ZRotation": 0
+                },
+                {
+                    "ModelId": "31731",
+                    "ModelIdNum": 31731,
+                    "ObjectType": 5,
+                    "XPos": 128,
+                    "YPos": -258,
+                    "ZPos": 128,
+                    "XRotation": 0,
+                    "YRotation": 1536,
+                    "ZRotation": 0
+                },
+                {
+                    "ModelId": "31725",
+                    "ModelIdNum": 31725,
+                    "ObjectType": 5,
+                    "XPos": 256,
+                    "YPos": -258,
+                    "ZPos": 256,
+                    "XRotation": 0,
+                    "YRotation": 1536,
+                    "ZRotation": 0
+                },
+                {
+                    "ModelId": "31724",
+                    "ModelIdNum": 31724,
+                    "ObjectType": 5,
+                    "XPos": 256,
+                    "YPos": -258,
+                    "ZPos": 384,
+                    "XRotation": 0,
+                    "YRotation": 512,
+                    "ZRotation": 0
+                },
+                {
+                    "ModelId": "31724",
+                    "ModelIdNum": 31724,
+                    "ObjectType": 5,
+                    "XPos": 384,
+                    "YPos": -258,
+                    "ZPos": 256,
+                    "XRotation": 0,
+                    "YRotation": 0,
+                    "ZRotation": 0
+                }
+            ],
+            "BlockFlatObjectRecords": [],
+            "BlockSection3Records": [],
+            "BlockPeopleRecords": [],
+            "BlockDoorRecords": []
+        }
+    },
+    "AutoMapData": null
+}

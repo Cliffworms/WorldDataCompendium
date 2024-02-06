@@ -1,0 +1,106 @@
+{
+    "Loaded": true,
+    "Name": "Baerpe Manor",
+    "RegionName": "Alik'r Desert",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 87454323,
+        "Latitude": 9896,
+        "Longitude": 65960,
+        "LocationType": "HomeWealthy",
+        "DungeonType": "NoDungeon",
+        "Discovered": true,
+        "Key": 0
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 16889856,
+                "Y": 2537473,
+                "IsExterior": 32768,
+                "Unknown2": 83,
+                "LocationId": 27279,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": "Baerpe Manor"
+            }
+        },
+        "BuildingCount": 4,
+        "Buildings": [
+            {
+                "NameSeed": 10265,
+                "FactionId": 0,
+                "Sector": 4,
+                "LocationId": 27279,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 8490,
+                "FactionId": 0,
+                "Sector": 9,
+                "LocationId": 27279,
+                "BuildingType": "House2",
+                "Quality": 14
+            },
+            {
+                "NameSeed": 21035,
+                "FactionId": 0,
+                "Sector": 12,
+                "LocationId": 27279,
+                "BuildingType": "House2",
+                "Quality": 3
+            },
+            {
+                "NameSeed": 3879,
+                "FactionId": 0,
+                "Sector": 15,
+                "LocationId": 27279,
+                "BuildingType": "House1",
+                "Quality": 4
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Baerpe Manor",
+            "MapId": 422515,
+            "LocationId": 0,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "MANRBS00.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 224,
+        "ClimateType": "Desert",
+        "NatureSet": "Nature_Desert",
+        "GroundArchive": 2,
+        "NatureArchive": 503,
+        "SkyBase": 8,
+        "People": "Redguard",
+        "Names": "Nord"
+    },
+    "Politic": 128,
+    "RegionIndex": 0,
+    "LocationIndex": 83
+}

@@ -1,0 +1,134 @@
+{
+    "FactionId": 0,
+    "BuildingType": 24,
+    "Quality": 10,
+    "NameSeed": 0,
+    "RmbSubRecord": {
+        "XPos": 2496,
+        "ZPos": 2624,
+        "YRotation": 0,
+        "Exterior": {
+            "Header": {
+                "Num3dObjectRecords": 1,
+                "NumFlatObjectRecords": 1,
+                "NumSection3Records": 0,
+                "NumPeopleRecords": 0,
+                "NumDoorRecords": 0
+            },
+            "Block3dObjectRecords": [
+                {
+                    "ModelId": "910",
+                    "ModelIdNum": 910,
+                    "ObjectType": 4,
+                    "XPos": 49,
+                    "YPos": 48,
+                    "ZPos": -64,
+                    "XRotation": 0,
+                    "YRotation": 0,
+                    "ZRotation": 0
+                }
+            ],
+            "BlockFlatObjectRecords": [
+                {
+                    "Position": 6859,
+                    "XPos": 1752,
+                    "YPos": -383,
+                    "ZPos": -2728,
+                    "TextureArchive": 199,
+                    "TextureRecord": 10,
+                    "FactionID": -1,
+                    "Flags": 65
+                }
+            ],
+            "BlockSection3Records": [],
+            "BlockPeopleRecords": [],
+            "BlockDoorRecords": []
+        },
+        "Interior": {
+            "Header": {
+                "Num3dObjectRecords": 3,
+                "NumFlatObjectRecords": 3,
+                "NumSection3Records": 1,
+                "NumPeopleRecords": 0,
+                "NumDoorRecords": 0
+            },
+            "Block3dObjectRecords": [
+                {
+                    "ModelId": "41508",
+                    "ModelIdNum": 41508,
+                    "ObjectType": 13,
+                    "XPos": -34,
+                    "YPos": -141,
+                    "ZPos": -63,
+                    "XRotation": 0,
+                    "YRotation": 1536,
+                    "ZRotation": 0
+                },
+                {
+                    "ModelId": "41817",
+                    "ModelIdNum": 41817,
+                    "ObjectType": 3,
+                    "XPos": -312,
+                    "YPos": 10,
+                    "ZPos": -208,
+                    "XRotation": 0,
+                    "YRotation": 0,
+                    "ZRotation": 0
+                },
+                {
+                    "ModelId": "41817",
+                    "ModelIdNum": 41817,
+                    "ObjectType": 3,
+                    "XPos": -232,
+                    "YPos": 10,
+                    "ZPos": -216,
+                    "XRotation": 0,
+                    "YRotation": 192,
+                    "ZRotation": 0
+                }
+            ],
+            "BlockFlatObjectRecords": [
+                {
+                    "Position": 7091,
+                    "XPos": -176,
+                    "YPos": -60,
+                    "ZPos": -88,
+                    "TextureArchive": 210,
+                    "TextureRecord": 26,
+                    "FactionID": 20496,
+                    "Flags": 17
+                },
+                {
+                    "Position": 7108,
+                    "XPos": -296,
+                    "YPos": -189,
+                    "ZPos": -32,
+                    "TextureArchive": 210,
+                    "TextureRecord": 26,
+                    "FactionID": -28656,
+                    "Flags": 17
+                },
+                {
+                    "Position": 7125,
+                    "XPos": -160,
+                    "YPos": -153,
+                    "ZPos": -88,
+                    "TextureArchive": 199,
+                    "TextureRecord": 8,
+                    "FactionID": -1,
+                    "Flags": 1
+                }
+            ],
+            "BlockSection3Records": [
+                {
+                    "XPos": 0,
+                    "YPos": -129,
+                    "ZPos": -64
+                }
+            ],
+            "BlockPeopleRecords": [],
+            "BlockDoorRecords": []
+        }
+    },
+    "AutoMapData": null
+}
